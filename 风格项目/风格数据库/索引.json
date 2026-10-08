@@ -1,0 +1,146 @@
+{
+  "updated": "2026-10-03",
+  "kind": "animal_animation_style_knowledge_library",
+  "defaultActivation": "仅当前用户或剧目已明确选择动物动画时调用",
+  "cards": [
+    {
+      "id": "AN-00",
+      "title": "拟人动物动画CG共同底层",
+      "file": "AN-00_动物动画CG共同底层.md",
+      "status": "公共方向已认可，中等细节为最新执行调整",
+      "tags": [
+        "动物CG",
+        "参照物分色",
+        "中等细节"
+      ],
+      "englishCore": "An original stylized 3D world inhabited by anthropomorphic animals, rendered as polished sculptural feature-animation CGI. Expressive architectural silhouettes, gently softened edges, selectively exaggerated usable proportions, broad coordinated color planes and softly painted tactile materials establish a mature animated identity. Curate a moderate level of detail: give the main action area clear shapes and access, retain convincing functional furnishings, and group signs of everyday use along the edges and in the middle distance. Distinguish action-related seats, doors and objects through stable colors, shapes and positions. Directional light, readable colored shadows and controlled reflections preserve depth and material character.",
+      "englishCoreScope": "scene",
+      "moduleUse": {
+        "scene": "既有英文核心和模块规则",
+        "prop": "共享媒介＋本剧色材工艺＋独立道具结构",
+        "character": "仅定角准备，具体物种和身份待当前任务确认"
+      },
+      "dimensions": {
+        "medium": "雕塑化动物卡通CG；轮廓、比例、宽色面、概括材质和受控反射",
+        "worldEra": "不设时代，由剧本和所选风格决定",
+        "interiorGrade": "逐地点按身份、用途和等级确定",
+        "lighting": "实际时段天气与可见光源；情绪覆盖不固定全亮全暗",
+        "detail": "动作核心／功能生活／建筑氛围分层，无统一物件上限",
+        "identity": "当前资产自己的轮廓、本色、位置、状态与归属"
+      },
+      "evidence": {
+        "directionApproved": true,
+        "approvalScope": "共同动画方向与参照物分色；最新方法整理不等于新版成图测试",
+        "observedImages": [
+          "2026-10-01餐厅／礼堂四图对比"
+        ],
+        "revisedSceneImagesInspected": false,
+        "videoTested": false,
+        "sources": [
+          "../../设计参考/2026-10-01_场景参照物与减法/反馈学习.md",
+          "../../设计参考/2026-10-02_场景细节中间值/反馈学习.md"
+        ]
+      }
+    },
+    {
+      "id": "AN-01",
+      "title": "中世纪魔幻＋蒸汽＋动物动画CG",
+      "file": "AN-01_中世纪魔幻蒸汽动物CG.md",
+      "status": "龙剧世界方向已认可；用户报告新场景喜欢；无本轮新图验收",
+      "tags": [
+        "中世纪",
+        "魔幻",
+        "蒸汽",
+        "贵族分层",
+        "现代功能"
+      ],
+      "englishCore": "An original medieval fantasy steampunk world inhabited by anthropomorphic animals, rendered as polished sculptural feature-animation CGI. Expressive stone-and-timber architecture, deep arched openings, selectively exaggerated usable proportions and chunky softened bevels define the world. Coherent copper-and-brass heating pipes, valves and mechanical lamps integrate with functional modern devices. Broad coordinated saturated color planes, softly painted tactile materials, luminous color bounce and readable contact shadows preserve the animated identity. Curated furnishings, layered architectural detail and grouped signs of everyday use enrich the setting while clear action landmarks and circulation remain prominent. Lighting follows visible sources, the actual time of day and the scene's emotional purpose.",
+      "englishCoreScope": "scene",
+      "moduleUse": {
+        "scene": "既有英文核心和模块规则",
+        "prop": "共享媒介＋本剧色材工艺＋独立道具结构",
+        "character": "仅定角准备，具体物种和身份待当前任务确认"
+      },
+      "dimensions": {
+        "medium": "雕塑化动物卡通CG；轮廓、比例、宽色面、概括材质和受控反射",
+        "worldEra": "中世纪魔幻建筑及连贯蒸汽工艺，现代剧情科技功能保留",
+        "interiorGrade": "逐地点按身份、用途和等级确定",
+        "lighting": "实际时段天气与可见光源；情绪覆盖不固定全亮全暗",
+        "detail": "动作核心／功能生活／建筑氛围分层，无统一物件上限",
+        "identity": "当前资产自己的轮廓、本色、位置、状态与归属"
+      },
+      "evidence": {
+        "directionApproved": true,
+        "approvalScope": "龙剧世界方向与C装修升级方向用户认可",
+        "observedImages": [
+          "龙剧C旧五图，贵气不足负反馈"
+        ],
+        "revisedSceneImagesInspected": false,
+        "videoTested": false,
+        "sources": [
+          "../../剧目/The Last Dragon Heir Only Sleeps With Me/场景/C成图反馈与装修升级_v02.md"
+        ]
+      }
+    },
+    {
+      "id": "AN-02",
+      "title": "当代都市＋轻复古生活＋情感悬疑动物CG",
+      "file": "AN-02_当代都市情感动物CG.md",
+      "status": "v02温馨卡通方向用户已确认；局部萝卜元素认可；无逐图观察",
+      "tags": [
+        "现代都市",
+        "生活质感",
+        "心理关系",
+        "摄影",
+        "独立成长"
+      ],
+      "englishCore": "An original contemporary anthropomorphic-animal city, rendered as distinctly stylized cartoon feature-animation CGI with the emotional depth of an adult urban drama. Subtly flared portals, thick offset frames, bowed furniture bases and sculpted cushion shapes create an expressive architectural rhythm. Simplified tactile materials, broad coordinated color planes and softly painted surfaces make the animated design clearly visible. Contemporary interiors carry selective retro warmth through timber, fabric and ceramic. Tail clearance, paw-friendly handles or smaller residents' reachable storage integrate species needs into useful furnishings where appropriate. Curated everyday detail enriches secondary areas, while stable seat colors, clear spatial landmarks and open paths support the action. Source-based directional light, broad color bounce and readable contact shadows preserve depth and emotional nuance.",
+      "englishCoreScope": "scene",
+      "moduleUse": {
+        "scene": "既有英文核心和模块规则",
+        "prop": "共享媒介＋本剧色材工艺＋独立道具结构",
+        "character": "仅定角准备，具体物种和身份待当前任务确认"
+      },
+      "dimensions": {
+        "medium": "雕塑化动物卡通CG；轮廓、比例、宽色面、概括材质和受控反射",
+        "worldEra": "当代都市功能，家具材料可有轻复古暖意",
+        "interiorGrade": "逐地点按身份、用途和等级确定",
+        "lighting": "实际时段天气与可见光源；情绪覆盖不固定全亮全暗",
+        "detail": "动作核心／功能生活／建筑氛围分层，无统一物件上限",
+        "identity": "当前资产自己的轮廓、本色、位置、状态与归属"
+      },
+      "evidence": {
+        "directionApproved": true,
+        "approvalScope": "都市v02温馨卡通和局部萝卜方向用户认可",
+        "observedImages": [
+          "P08旧奖杯失败图，属于道具反馈，非都市场景验证"
+        ],
+        "revisedSceneImagesInspected": false,
+        "videoTested": false,
+        "sources": [
+          "../../剧目/砸碎闺蜜的楚门世界（动物城版）/剧目状态.md",
+          "../../剧目/砸碎闺蜜的楚门世界（动物城版）/道具/P08摄影比赛金属奖杯提示词_v02.md"
+        ]
+      }
+    }
+  ],
+  "version": "v02",
+  "moduleAdapterFile": "模块适配与调用.md",
+  "uploadPackage": "动物动画场景与道具风格知识包_v02.md",
+  "sharedMediumCore": "Original sculptural cartoon feature-animation CGI, with distinctive designed silhouettes, purposeful proportion rhythms, clearly modeled changes in thickness and curvature, broad coordinated color planes and simplified tactile surface detail. Readable colored shadows and controlled reflections support volume and material character. Shapes and usable construction remain specific to the current subject and its narrative role.",
+  "compositionDimensions": [
+    "动画媒介",
+    "世界与时代",
+    "地点身份与等级",
+    "时间与情绪光影",
+    "细节层次",
+    "当前资产识别"
+  ],
+  "scope": "场景与道具；动物配角仅定角准备，尚无已验证角色风格卡",
+  "sceneProductionPreferences": {
+    "extraTransitionEmptyShots": "用户主动提出后才设计；已有授权不追溯删除",
+    "normalEnvironmentBoards": "仍按无人剧情场景制作",
+    "sameResidenceFunctionalScenes": "默认独立构图，共享装修语言/等级/色材",
+    "crossRoomVisibility": "剧本或用户需要视线/递物/进出等动作时才设计所需连接"
+  }
+}

@@ -1,0 +1,1565 @@
+{
+  "title": "The Last Dragon Heir Only Sleeps With Me",
+  "englishTitle": "The Last Dragon Heir Only Sleeps With Me",
+  "version": "v01",
+  "date": "2026-10-01",
+  "status": "A–X58个功能空间提示词完成；Y01–Y08用户取消制作；未由本对话生成图片，效果与认可见剧目状态",
+  "source": "The Last Dragon Heir Only Sleeps With Me.docx；P0001–P0831，25章",
+  "groups": [
+    {
+      "letter": "A",
+      "name": "成人时期酒店套房",
+      "kind": "base",
+      "scenes": [
+        {
+          "id": "A01",
+          "name": "套房主卧／床头与支票位置"
+        },
+        {
+          "id": "A02",
+          "name": "套房门外／夜间敲门走廊"
+        },
+        {
+          "id": "A03",
+          "name": "套房会客区／分手与金钱交接"
+        }
+      ]
+    },
+    {
+      "letter": "B",
+      "name": "Mia故乡旧公寓",
+      "kind": "base",
+      "scenes": [
+        {
+          "id": "B01",
+          "name": "浅色小床／寝居区"
+        },
+        {
+          "id": "B02",
+          "name": "日记书桌／抽屉椅子与纸篓"
+        },
+        {
+          "id": "B03",
+          "name": "小厨房／煮水与醒酒操作台"
+        },
+        {
+          "id": "B04",
+          "name": "公寓入口／密码锁与助理交接"
+        },
+        {
+          "id": "B05",
+          "name": "衣柜／睡衣与衣物收纳"
+        },
+        {
+          "id": "B06",
+          "name": "起居整理区／文件与行李"
+        },
+        {
+          "id": "B07",
+          "name": "住宅楼下／夜间落客位置"
+        }
+      ]
+    },
+    {
+      "letter": "C",
+      "name": "Blackthorn龙族庄园",
+      "kind": "base",
+      "scenes": [
+        {
+          "id": "C01",
+          "name": "契约会客室／母亲续约桌"
+        },
+        {
+          "id": "C02",
+          "name": "庄园大门／招募排队前院"
+        },
+        {
+          "id": "C03",
+          "name": "门廊侧角／女孩等待睡着处"
+        },
+        {
+          "id": "C04",
+          "name": "庄园门厅／进出与接引"
+        },
+        {
+          "id": "C05",
+          "name": "Draven卧室／陪伴与成年旧事"
+        },
+        {
+          "id": "C06",
+          "name": "卧室门前／夜间提醒通道"
+        },
+        {
+          "id": "C07",
+          "name": "共同学习桌／大学申请材料"
+        },
+        {
+          "id": "C08",
+          "name": "Draven办公书房／长桌与窗"
+        },
+        {
+          "id": "C09",
+          "name": "母亲花艺区／修枝操作台"
+        },
+        {
+          "id": "C10",
+          "name": "服务过道／员工交接区"
+        },
+        {
+          "id": "C11",
+          "name": "庄园外街灯／联系教授路边"
+        }
+      ]
+    },
+    {
+      "letter": "D",
+      "name": "故乡医院／诊疗机构",
+      "kind": "base",
+      "scenes": [
+        {
+          "id": "D01",
+          "name": "顶层病房／病床与床边椅"
+        },
+        {
+          "id": "D02",
+          "name": "顶层电梯厅／病区走廊"
+        },
+        {
+          "id": "D03",
+          "name": "急诊门前／夜间转运落客"
+        },
+        {
+          "id": "D04",
+          "name": "接诊观察区／转运床位"
+        },
+        {
+          "id": "D05",
+          "name": "医生咨询室／少年失眠诊疗"
+        }
+      ]
+    },
+    {
+      "letter": "E",
+      "name": "敌对家族拘禁地",
+      "kind": "base",
+      "scenes": [
+        {
+          "id": "E01",
+          "name": "封闭房间／少年绑架回忆"
+        }
+      ]
+    },
+    {
+      "letter": "F",
+      "name": "Blackthorn资助学业机构",
+      "kind": "base",
+      "scenes": [
+        {
+          "id": "F01",
+          "name": "教室／学习课桌区"
+        }
+      ]
+    },
+    {
+      "letter": "G",
+      "name": "故乡追债交涉地点",
+      "kind": "base",
+      "scenes": [
+        {
+          "id": "G01",
+          "name": "旧街宅门口／追债与解围"
+        }
+      ]
+    },
+    {
+      "letter": "H",
+      "name": "故乡教学科研机构",
+      "kind": "base",
+      "scenes": [
+        {
+          "id": "H01",
+          "name": "教授办公室／交换材料台"
+        },
+        {
+          "id": "H02",
+          "name": "原研究工位／电脑与资料"
+        }
+      ]
+    },
+    {
+      "letter": "I",
+      "name": "Blackthorn汽车",
+      "kind": "base",
+      "scenes": [
+        {
+          "id": "I01",
+          "name": "车内前后排／助理送人"
+        }
+      ]
+    },
+    {
+      "letter": "J",
+      "name": "故乡夜间饮酒场所",
+      "kind": "base",
+      "scenes": [
+        {
+          "id": "J01",
+          "name": "酒吧卡座／饮酒位置"
+        },
+        {
+          "id": "J02",
+          "name": "酒吧门外／临街上车区"
+        }
+      ]
+    },
+    {
+      "letter": "K",
+      "name": "赴约长途道路",
+      "kind": "base",
+      "scenes": [
+        {
+          "id": "K01",
+          "name": "夜间城际道路／通宵驾车"
+        }
+      ]
+    },
+    {
+      "letter": "L",
+      "name": "暴风雪飞行空域",
+      "kind": "base",
+      "scenes": [
+        {
+          "id": "L01",
+          "name": "风雪云层／飞行通道背景"
+        }
+      ]
+    },
+    {
+      "letter": "M",
+      "name": "Seraphina住所",
+      "kind": "base",
+      "scenes": [
+        {
+          "id": "M01",
+          "name": "起居整理区／露营器材来电"
+        }
+      ]
+    },
+    {
+      "letter": "N",
+      "name": "露营／烟花约会地",
+      "kind": "base",
+      "scenes": [
+        {
+          "id": "N01",
+          "name": "营地活动区／烟花观看位置"
+        },
+        {
+          "id": "N02",
+          "name": "营地寝帐／Seraphina尝试助眠"
+        }
+      ]
+    },
+    {
+      "letter": "O",
+      "name": "故乡机场",
+      "kind": "base",
+      "scenes": [
+        {
+          "id": "O01",
+          "name": "候机登机区／离开与往返"
+        }
+      ]
+    },
+    {
+      "letter": "P",
+      "name": "民航飞机",
+      "kind": "base",
+      "scenes": [
+        {
+          "id": "P01",
+          "name": "靠窗座位／换SIM卡与望云"
+        }
+      ]
+    },
+    {
+      "letter": "Q",
+      "name": "纽约机场",
+      "kind": "base",
+      "scenes": [
+        {
+          "id": "Q01",
+          "name": "到达通道／行李与城市入口"
+        }
+      ]
+    },
+    {
+      "letter": "R",
+      "name": "纽约相邻公寓楼／两套住宅",
+      "kind": "base",
+      "scenes": [
+        {
+          "id": "R01",
+          "name": "Mia新居／浅色小床与花"
+        },
+        {
+          "id": "R02",
+          "name": "Mia新居／日记与研究桌"
+        },
+        {
+          "id": "R03",
+          "name": "Mia阳台／可见隔壁花台"
+        },
+        {
+          "id": "R04",
+          "name": "Draven隔壁卧室／床靠共享墙"
+        },
+        {
+          "id": "R05",
+          "name": "Draven隔壁阳台／每日鲜花"
+        },
+        {
+          "id": "R06",
+          "name": "两户公共过道／并列入口"
+        }
+      ]
+    },
+    {
+      "letter": "S",
+      "name": "纽约医学教学科研机构",
+      "kind": "base",
+      "scenes": [
+        {
+          "id": "S01",
+          "name": "研究工作区／资料电脑工位"
+        },
+        {
+          "id": "S02",
+          "name": "课题会议室／讨论桌"
+        }
+      ]
+    },
+    {
+      "letter": "T",
+      "name": "纽约日常街区",
+      "kind": "base",
+      "scenes": [
+        {
+          "id": "T01",
+          "name": "步行路口／拿花与隔街旁观"
+        }
+      ]
+    },
+    {
+      "letter": "U",
+      "name": "纽约花店",
+      "kind": "base",
+      "scenes": [
+        {
+          "id": "U01",
+          "name": "鲜花选购／交接台"
+        }
+      ]
+    },
+    {
+      "letter": "V",
+      "name": "纽约家居用品店",
+      "kind": "base",
+      "scenes": [
+        {
+          "id": "V01",
+          "name": "床品与玩偶／选购展示区"
+        }
+      ]
+    },
+    {
+      "letter": "W",
+      "name": "猫主题咖啡店",
+      "kind": "base",
+      "scenes": [
+        {
+          "id": "W01",
+          "name": "室内座位／宠物互动区"
+        },
+        {
+          "id": "W02",
+          "name": "店外门口／邀请与街角"
+        }
+      ]
+    },
+    {
+      "letter": "X",
+      "name": "男同学纽约公寓",
+      "kind": "base",
+      "scenes": [
+        {
+          "id": "X01",
+          "name": "客厅玩耍空地／宠物展示"
+        },
+        {
+          "id": "X02",
+          "name": "餐叙区／多人火锅桌"
+        },
+        {
+          "id": "X03",
+          "name": "客用留宿角／沙发与客床"
+        }
+      ]
+    },
+    {
+      "letter": "Y",
+      "name": "过渡空镜／时间流逝",
+      "kind": "transition",
+      "scenes": [
+        {
+          "id": "Y01",
+          "name": "庄园树梢与窗光／成长晨昏"
+        },
+        {
+          "id": "Y02",
+          "name": "旧公寓外／三日窗灯变化"
+        },
+        {
+          "id": "Y03",
+          "name": "旧公寓窗外／近午天光"
+        },
+        {
+          "id": "Y04",
+          "name": "故乡屋顶／末周光影流动"
+        },
+        {
+          "id": "Y05",
+          "name": "机场跑道／晨间起飞天光"
+        },
+        {
+          "id": "Y06",
+          "name": "纽约邻楼外／日夜与窗光"
+        },
+        {
+          "id": "Y07",
+          "name": "医院顶层窗外／日光转傍晚"
+        },
+        {
+          "id": "Y08",
+          "name": "返程空域／深蓝橙色云层"
+        }
+      ],
+      "productionStatus": "用户取消制作；历史建议保留"
+    }
+  ],
+  "rows": [
+    {
+      "id": "A01",
+      "family": "成人时期酒店套房",
+      "name": "套房主卧／床头与支票位置",
+      "episodes": "Ch1、3、8、23回忆",
+      "time": "Ch1深夜明写；其他酒店关系为成年时期回忆",
+      "weather": "天气未写；室内",
+      "evidenceType": "ACT/VIS",
+      "source": "P0020–0052、P0120–0127、P0324–0327、P0758–0759",
+      "notes": "床、床头签支票位置、女孩停留与离开动线清楚；Ch7确认首次酒店女孩就是Seraphina。多次成年酒店回忆复用为制作设定。",
+      "assetKind": "base",
+      "productionStatus": "提示词已完成",
+      "scopeStatus": "active"
+    },
+    {
+      "id": "A02",
+      "family": "成人时期酒店套房",
+      "name": "套房门外／夜间敲门走廊",
+      "episodes": "Ch1、3、8",
+      "time": "深夜／多年夜间催睡",
+      "weather": "天气未写；室内",
+      "evidenceType": "ACT/MENTION＋功能补充",
+      "source": "P0020–0040、P0121–0122、P0324–0326",
+      "notes": "Mia到达、敲门、女孩离开；门内外分开，套房门与A01连贯。多年催睡既可用此处也可用C06。",
+      "assetKind": "base",
+      "productionStatus": "提示词已完成",
+      "scopeStatus": "active"
+    },
+    {
+      "id": "A03",
+      "family": "成人时期酒店套房",
+      "name": "套房会客区／分手与金钱交接",
+      "episodes": "Ch21",
+      "time": "Mia离开后；具体日期昼夜未写",
+      "weather": "天气未写；室内",
+      "evidenceType": "ACT＋地点设定",
+      "source": "P0708–0720",
+      "notes": "Draven与Seraphina分手、她拿钱离开；原文未给地点，统一落同类酒店套房会客区是本版制作设定。",
+      "assetKind": "base",
+      "productionStatus": "提示词已完成",
+      "scopeStatus": "active"
+    },
+    {
+      "id": "B01",
+      "family": "Mia故乡旧公寓",
+      "name": "浅色小床／寝居区",
+      "episodes": "Ch1–2、6–7、10–13、23–25回扣",
+      "time": "深夜共眠；次日近午电话；末周夜间；空房检查时段未写；Ch23当夜",
+      "weather": "天气未写；室内",
+      "evidenceType": "ACT/STATE",
+      "source": "P0059–0097、P0249–0295、P0378–0399、P0419–0427、P0477–0479、P0760–0778",
+      "notes": "浅色小床、玩偶、床侧通路是锚点。清空裸床垫与Draven回来服药仍属此地址；不能放纽约隔壁卧室。床状态另登记。",
+      "assetKind": "base",
+      "productionStatus": "提示词已完成",
+      "scopeStatus": "active"
+    },
+    {
+      "id": "B02",
+      "family": "Mia故乡旧公寓",
+      "name": "日记书桌／抽屉椅子与纸篓",
+      "episodes": "Ch4、19；Ch8回扣",
+      "time": "19岁写日记；23岁发现撕毁（用户确认）；19岁书写夜间、23岁晨间发现",
+      "weather": "天气未写；室内",
+      "evidenceType": "ACT/VIS＋用户修订",
+      "source": "P0144–0181、P0322–0323、P0672–0675",
+      "notes": "日记藏底层抽屉、Draven坐椅子翻看、撕页丢纸篓。历史卧室归旧公寓是复用设定；19岁书写与23岁发现之间明确跨年。",
+      "assetKind": "base",
+      "productionStatus": "提示词已完成",
+      "scopeStatus": "active"
+    },
+    {
+      "id": "B03",
+      "family": "Mia故乡旧公寓",
+      "name": "小厨房／煮水与醒酒操作台",
+      "episodes": "Ch5",
+      "time": "日记发现后第4夜，23岁（用户确认）",
+      "weather": "天气未写；室内",
+      "evidenceType": "ACT",
+      "source": "P0188–0218",
+      "notes": "热水、醒酒准备、背后靠近与转身，需要清楚灶台／水壶及可站两人的通路。只设计空环境。",
+      "assetKind": "base",
+      "productionStatus": "提示词已完成",
+      "scopeStatus": "active"
+    },
+    {
+      "id": "B04",
+      "family": "Mia故乡旧公寓",
+      "name": "公寓入口／密码锁与助理交接",
+      "episodes": "Ch4–5、10、13",
+      "time": "第4夜醉酒登门；拒绝续约后的翌日晚间来访；离开故乡后次日查空房",
+      "weather": "天气未写；室内",
+      "evidenceType": "ACT",
+      "source": "P0184–0194、P0404–0407、P0474–0476",
+      "notes": "助理扶入、男主出门及输入密码进入。门框和密码锁位置固定；入门与卧室区可识别连接。",
+      "assetKind": "base",
+      "productionStatus": "提示词已完成",
+      "scopeStatus": "active"
+    },
+    {
+      "id": "B05",
+      "family": "Mia故乡旧公寓",
+      "name": "衣柜／睡衣与衣物收纳",
+      "episodes": "Ch10–11",
+      "time": "拒约后剩余7天；翌日晚间，最后一夜前",
+      "weather": "天气未写；室内",
+      "evidenceType": "ACT/STATE",
+      "source": "P0376–0383、P0411–0422",
+      "notes": "打开衣柜、发现少两套睡衣、收拾衣物。衣物减少是状态变化，不另造空房；留明显可打开的柜门。",
+      "assetKind": "base",
+      "productionStatus": "提示词已完成",
+      "scopeStatus": "active"
+    },
+    {
+      "id": "B06",
+      "family": "Mia故乡旧公寓",
+      "name": "起居整理区／文件与行李",
+      "episodes": "Ch9–11",
+      "time": "合同到期前7天至最后一夜；具体准备时段未写",
+      "weather": "天气未写；室内",
+      "evidenceType": "ACT/MENTION＋功能补充",
+      "source": "P0368–0377、P0411–0427、P0460–0464",
+      "notes": "交换文件、打包与阅读角。小公寓内设紧凑桌／行李操作区，不把全部动作压到床上；空房状态需与B01/B05一致。",
+      "assetKind": "base",
+      "productionStatus": "提示词已完成",
+      "scopeStatus": "active"
+    },
+    {
+      "id": "B07",
+      "family": "Mia故乡旧公寓",
+      "name": "住宅楼下／夜间落客位置",
+      "episodes": "Ch4–5、20回忆",
+      "time": "23岁日记被发现后第4夜（用户确认）",
+      "weather": "天气未写；夜间明写",
+      "evidenceType": "ACT＋动线补充",
+      "source": "P0184–0191、P0678–0686",
+      "notes": "助理把醉酒Draven送到Mia家；楼下停车位置为设定。区别于酒吧上车点J02。",
+      "assetKind": "base",
+      "productionStatus": "提示词已完成",
+      "scopeStatus": "active"
+    },
+    {
+      "id": "C01",
+      "family": "Blackthorn龙族庄园",
+      "name": "契约会客室／母亲续约桌",
+      "episodes": "Ch7–9、5与19回忆",
+      "time": "当前续约谈话为夜间；首次续约18岁；历史谈薪时段未写",
+      "weather": "天气未写；室内",
+      "evidenceType": "ACT/VIS",
+      "source": "P0296–0365、P0222–0225、P0659–0662",
+      "notes": "合同、茶杯、两方坐席与进门位置清楚；Draven短暂闯入后被叫走。历史谈薪与18岁续约复用此桌为设定。",
+      "assetKind": "base",
+      "productionStatus": "提示词已完成",
+      "scopeStatus": "active"
+    },
+    {
+      "id": "C02",
+      "family": "Blackthorn龙族庄园",
+      "name": "庄园大门／招募排队前院",
+      "episodes": "Ch3、12、24回忆",
+      "time": "13岁招募当日，昼夜未写；白天为制作建议",
+      "weather": "天气未写；具体晴阴为制作设定",
+      "evidenceType": "ACT/VIS",
+      "source": "P0102–0106、P0442–0443、P0784–0789",
+      "notes": "取号、候选队伍和主入口；画面为空，预留少量清楚等候区，后续视频加人群。",
+      "assetKind": "base",
+      "productionStatus": "提示词已完成",
+      "scopeStatus": "active"
+    },
+    {
+      "id": "C03",
+      "family": "Blackthorn龙族庄园",
+      "name": "门廊侧角／女孩等待睡着处",
+      "episodes": "Ch3、24回忆",
+      "time": "13岁候选等待期间，具体时段未写",
+      "weather": "天气未写；具体晴阴为制作设定",
+      "evidenceType": "ACT/VIS",
+      "source": "P0107–0114、P0785–0790",
+      "notes": "侧角避开主队列，小猫蜷缩睡着、Draven看到她。台阶／低凳是设定；空间与C02同址但主动作不同。",
+      "assetKind": "base",
+      "productionStatus": "提示词已完成",
+      "scopeStatus": "active"
+    },
+    {
+      "id": "C04",
+      "family": "Blackthorn龙族庄园",
+      "name": "庄园门厅／进出与接引",
+      "episodes": "Ch3、9、12–13回忆",
+      "time": "招募时及成年进出；昼夜按对应事件",
+      "weather": "天气未写；室内",
+      "evidenceType": "ACT＋动线补充",
+      "source": "P0110–0115、P0345–0350、P0442–0443、P0489",
+      "notes": "男主从宅内出来、传话后离开、Mia被送入及成年返回。门厅结构为设定，通道清楚不堆雕像。",
+      "assetKind": "base",
+      "productionStatus": "提示词已完成",
+      "scopeStatus": "active"
+    },
+    {
+      "id": "C05",
+      "family": "Blackthorn龙族庄园",
+      "name": "Draven卧室／陪伴与成年旧事",
+      "episodes": "Ch2–3、6、19、23–24梦与回忆",
+      "time": "13岁陪伴为早期；四年前成年旧事按19岁；成年旧事夜间",
+      "weather": "天气未写；室内",
+      "evidenceType": "ACT/VIS＋历史归属设定",
+      "source": "P0098–0133、P0228–0240、P0659–0671、P0765–0769、P0791–0794",
+      "notes": "他的卧室归庄园为设定。13岁陪伴、成年旧事与梦境分开使用；同房年代与陈设需状态统一，不设计露骨画面。",
+      "assetKind": "base",
+      "productionStatus": "提示词已完成",
+      "scopeStatus": "active"
+    },
+    {
+      "id": "C06",
+      "family": "Blackthorn龙族庄园",
+      "name": "卧室门前／夜间提醒通道",
+      "episodes": "Ch3、8、25回扣",
+      "time": "长期晚间／深夜",
+      "weather": "天气未写；室内",
+      "evidenceType": "MENTION→用户范围内画面化",
+      "source": "P0121–0122、P0324–0327、P0813–0815",
+      "notes": "敲门和提醒睡觉的长期旁白；与C05共享房门，酒店时期可复用A02，不把每年每位来客另算地址。",
+      "assetKind": "base",
+      "productionStatus": "提示词已完成",
+      "scopeStatus": "active"
+    },
+    {
+      "id": "C07",
+      "family": "Blackthorn龙族庄园",
+      "name": "共同学习桌／大学申请材料",
+      "episodes": "Ch5、17、19、23梦境",
+      "time": "13岁愿望券制作回忆；升学时期；Ch23梦中17岁明写；四年前学业回忆不锁为同一日",
+      "weather": "天气未写；室内",
+      "evidenceType": "ACT/VIS＋地点设定",
+      "source": "P0220–0221、P0611–0612、P0655–0658、P0762–0765",
+      "notes": "两份申请材料并排、共同学习；13岁愿望券手作也可复用此桌，制作地点归此为设定。17岁学业梦与随后成年旧事必须有梦境切换。",
+      "assetKind": "base",
+      "productionStatus": "提示词已完成",
+      "scopeStatus": "active"
+    },
+    {
+      "id": "C08",
+      "family": "Blackthorn龙族庄园",
+      "name": "Draven办公书房／长桌与窗",
+      "episodes": "Ch23",
+      "time": "回故乡处理工作数小时；接续当夜旧公寓",
+      "weather": "天气未写；室内",
+      "evidenceType": "ACT＋地点设定",
+      "source": "P0752–0759",
+      "notes": "工作与听闻Mia留宿后的静坐；office归庄园为设定，原文未写公司总部，不增加另一栋总部。",
+      "assetKind": "base",
+      "productionStatus": "提示词已完成",
+      "scopeStatus": "active"
+    },
+    {
+      "id": "C09",
+      "family": "Blackthorn龙族庄园",
+      "name": "母亲花艺区／修枝操作台",
+      "episodes": "Ch13",
+      "time": "Mia离开后次日；具体时段未写",
+      "weather": "天气未写；室内",
+      "evidenceType": "ACT＋功能区设定",
+      "source": "P0489–0501",
+      "notes": "修剪花、Draven质问。花艺台或冬园结构为设定；不将修枝写成外部庭院确定事实。",
+      "assetKind": "base",
+      "productionStatus": "提示词已完成",
+      "scopeStatus": "active"
+    },
+    {
+      "id": "C10",
+      "family": "Blackthorn龙族庄园",
+      "name": "服务过道／员工交接区",
+      "episodes": "Ch21旁白回扣",
+      "time": "此前十年内，具体年月昼夜未写",
+      "weather": "天气未写；室内",
+      "evidenceType": "MENTION→用户范围内画面化",
+      "source": "P0713–0716",
+      "notes": "员工轻视与母亲警告的旁白画面化；交接过道落点为设定，少量储物与清楚通行区即可。",
+      "assetKind": "base",
+      "productionStatus": "提示词已完成",
+      "scopeStatus": "active"
+    },
+    {
+      "id": "C11",
+      "family": "Blackthorn龙族庄园",
+      "name": "庄园外街灯／联系教授路边",
+      "episodes": "Ch9",
+      "time": "拒绝续约当晚；夜间明写",
+      "weather": "天气未写；街灯明写",
+      "evidenceType": "ACT",
+      "source": "P0366–0374",
+      "notes": "Mia离开庄园、在街灯下联系教授确认交换名额；灯柱、庄园外墙与可停步的路边位置清楚。区别于13岁排队前院C02，成年行动转折落点保留。",
+      "assetKind": "base",
+      "productionStatus": "提示词已完成",
+      "scopeStatus": "active"
+    },
+    {
+      "id": "D01",
+      "family": "故乡医院／诊疗机构",
+      "name": "顶层病房／病床与床边椅",
+      "episodes": "Ch16–18、23–25回扣",
+      "time": "入探病时段未写；陪伴两小时并留至傍晚明写",
+      "weather": "天气未写；室内",
+      "evidenceType": "ACT",
+      "source": "P0580–0650、P0778–0808",
+      "notes": "单张病床、床边椅、枕头取纸位置、可够到的垃圾桶、病房门清楚；撕愿望券和离开在此。留龙尾活动空间，不做魔法治疗装置。",
+      "assetKind": "base",
+      "productionStatus": "提示词已完成",
+      "scopeStatus": "active"
+    },
+    {
+      "id": "D02",
+      "family": "故乡医院／诊疗机构",
+      "name": "顶层电梯厅／病区走廊",
+      "episodes": "Ch16、18",
+      "time": "探视当天；具体到达时段未写",
+      "weather": "天气未写；室内",
+      "evidenceType": "ACT＋动线设定",
+      "source": "P0573–0579、P0624–0650",
+      "notes": "护士带到顶层、走向病房。电梯动线为设定；病房门与D01一致。故乡归属由返乡与返纽约航班共同推导。",
+      "assetKind": "base",
+      "productionStatus": "提示词已完成",
+      "scopeStatus": "active"
+    },
+    {
+      "id": "D03",
+      "family": "故乡医院／诊疗机构",
+      "name": "急诊门前／夜间转运落客",
+      "episodes": "Ch16护士口述、23回放",
+      "time": "服药当夜送医（护士口述）",
+      "weather": "天气未写；夜间明写",
+      "evidenceType": "MENTION→用户范围内画面化",
+      "source": "P0575–0577、P0760–0779",
+      "notes": "夜间被送到医院的短插入，落客及转运平台为设定；不锁具体急救车辆品牌。",
+      "assetKind": "base",
+      "productionStatus": "提示词已完成",
+      "scopeStatus": "active"
+    },
+    {
+      "id": "D04",
+      "family": "故乡医院／诊疗机构",
+      "name": "接诊观察区／转运床位",
+      "episodes": "Ch16口述、23回放",
+      "time": "服药之后被送院；夜间为连续性推导",
+      "weather": "天气未写；室内",
+      "evidenceType": "MENTION→用户范围内画面化",
+      "source": "P0575–0577、P0778–0779",
+      "notes": "可补入院处理的中性医疗环境；只设计通用观察床和监护位置，不指定ICU、具体治疗步骤或药物剂量。",
+      "assetKind": "base",
+      "productionStatus": "提示词已完成",
+      "scopeStatus": "active"
+    },
+    {
+      "id": "D05",
+      "family": "故乡医院／诊疗机构",
+      "name": "医生咨询室／少年失眠诊疗",
+      "episodes": "Ch2–3回忆；Ch17–18建议回扣",
+      "time": "13岁获救后；医生反复建议时期未写",
+      "weather": "天气未写；室内",
+      "evidenceType": "MENTION→用户范围内画面化",
+      "source": "P0098–0102、P0133、P0596、P0647–0649",
+      "notes": "创伤失眠医生建议找陪伴；少年诊疗同院复用为设定。成年心理治疗只是建议，不画成已经接受并治愈。",
+      "assetKind": "base",
+      "productionStatus": "提示词已完成",
+      "scopeStatus": "active"
+    },
+    {
+      "id": "E01",
+      "family": "敌对家族拘禁地",
+      "name": "封闭房间／少年绑架回忆",
+      "episodes": "Ch2",
+      "time": "13岁被绑架期间，昼夜未写",
+      "weather": "天气未写；室内",
+      "evidenceType": "MENTION→用户范围内画面化",
+      "source": "P0098–0100",
+      "notes": "只给不明拘禁空间的中性背景；具体房间是设定。原文不知绑架遭遇，不添加确定的刑讯、伤害或酷刑器具。",
+      "assetKind": "base",
+      "productionStatus": "提示词已完成",
+      "scopeStatus": "active"
+    },
+    {
+      "id": "F01",
+      "family": "Blackthorn资助学业机构",
+      "name": "教室／学习课桌区",
+      "episodes": "Ch7–8回忆",
+      "time": "18岁首次续约及此前在读阶段，具体昼夜未写",
+      "weather": "天气未写；室内",
+      "evidenceType": "MENTION→用户范围内画面化",
+      "source": "P0300–0303、P0320–0321",
+      "notes": "资助学校学习的旁白落点；学校类型与学段未写，不直接认定大学或某一中学。",
+      "assetKind": "base",
+      "productionStatus": "提示词已完成",
+      "scopeStatus": "active"
+    },
+    {
+      "id": "G01",
+      "family": "故乡追债交涉地点",
+      "name": "旧街宅门口／追债与解围",
+      "episodes": "Ch4回忆",
+      "time": "19岁那年；具体昼夜未写",
+      "weather": "天气未写；具体晴阴为制作设定",
+      "evidenceType": "MENTION→用户范围内画面化",
+      "source": "P0144–0145",
+      "notes": "Draven处理追讨家债的人；具体街边位置为制作设定，不补打斗、刑讯或整个债务公司。",
+      "assetKind": "base",
+      "productionStatus": "提示词已完成",
+      "scopeStatus": "active"
+    },
+    {
+      "id": "H01",
+      "family": "故乡教学科研机构",
+      "name": "教授办公室／交换材料台",
+      "episodes": "Ch9–11制作插入",
+      "time": "拒绝续约后，出发前7天内；昼夜未写",
+      "weather": "天气未写；室内",
+      "evidenceType": "MENTION→用户范围内画面化",
+      "source": "P0368–0372、P0412",
+      "notes": "联系教授、交换名额落实可短插入；办公室为落点，电话操作也可在B06/C11完成。与家族资助学校是否同校未写。",
+      "assetKind": "base",
+      "productionStatus": "提示词已完成",
+      "scopeStatus": "active"
+    },
+    {
+      "id": "H02",
+      "family": "故乡教学科研机构",
+      "name": "原研究工位／电脑与资料",
+      "episodes": "Ch9前史、10资料准备",
+      "time": "此前研究及赴交换前，具体时段未写",
+      "weather": "天气未写；室内",
+      "evidenceType": "MENTION→用户范围内画面化",
+      "source": "P0368、P0376–0377、P0564",
+      "notes": "匹配研究的交换与医学学习有依据；工位为画面化设定，不补已完成学历或指定湿实验、手术设施。",
+      "assetKind": "base",
+      "productionStatus": "提示词已完成",
+      "scopeStatus": "active"
+    },
+    {
+      "id": "I01",
+      "family": "Blackthorn汽车",
+      "name": "车内前后排／助理送人",
+      "episodes": "Ch20；Ch5前动线",
+      "time": "23岁日记被发现后第4夜（用户确认）",
+      "weather": "天气未写；夜间明写",
+      "evidenceType": "ACT",
+      "source": "P0678–0686、P0184–0189",
+      "notes": "助理扶入车、询问目的地、准备打给Seraphina被拦。两排座位与手机操作位置清楚，无品牌，夜间赴约驾车可复用内舱。",
+      "assetKind": "base",
+      "productionStatus": "提示词已完成",
+      "scopeStatus": "active"
+    },
+    {
+      "id": "J01",
+      "family": "故乡夜间饮酒场所",
+      "name": "酒吧卡座／饮酒位置",
+      "episodes": "Ch4–5、20回忆",
+      "time": "23岁发现日记后第4夜（用户确认）",
+      "weather": "天气未写；室内",
+      "evidenceType": "MENTION→用户范围内画面化",
+      "source": "P0182–0193、P0677–0678",
+      "notes": "醉酒有依据，酒吧卡座是制作落点；不确定具体喝酒原因、店名或酒量。",
+      "assetKind": "base",
+      "productionStatus": "提示词已完成",
+      "scopeStatus": "active"
+    },
+    {
+      "id": "J02",
+      "family": "故乡夜间饮酒场所",
+      "name": "酒吧门外／临街上车区",
+      "episodes": "Ch20回忆",
+      "time": "同一醉酒夜",
+      "weather": "天气未写；具体晴阴为制作设定",
+      "evidenceType": "ACT＋动线补充",
+      "source": "P0679–0681",
+      "notes": "助理扶入车的清楚站位和车门区；把酒吧设在此处是设定，与B07住宅落客点区分。",
+      "assetKind": "base",
+      "productionStatus": "提示词已完成",
+      "scopeStatus": "active"
+    },
+    {
+      "id": "K01",
+      "family": "赴约长途道路",
+      "name": "夜间城际道路／通宵驾车",
+      "episodes": "Ch7旁白",
+      "time": "赴约驾车阶段；整夜明写",
+      "weather": "道路天气未写；不自动沿用飞行暴风雪",
+      "evidenceType": "MENTION＋用户确认",
+      "source": "P0274–0276、P0014",
+      "notes": "与L01飞行分别保留为同次赴约途中不同阶段（用户确认）；原文未给路线，不定在纽约。",
+      "assetKind": "base",
+      "productionStatus": "提示词已完成",
+      "scopeStatus": "active"
+    },
+    {
+      "id": "L01",
+      "family": "暴风雪飞行空域",
+      "name": "风雪云层／飞行通道背景",
+      "episodes": "Ch1 Hook",
+      "time": "赴约飞行阶段；三天三夜无休息明写",
+      "weather": "强暴风雪明写",
+      "evidenceType": "MENTION＋用户确认",
+      "source": "P0014、P0274–0276",
+      "notes": "为黑龙飞行提供空环境，人物后续视频加入；与K01分阶段。雪山、城堡均未写，不额外锁某一地貌。",
+      "assetKind": "base",
+      "productionStatus": "提示词已完成",
+      "scopeStatus": "active"
+    },
+    {
+      "id": "M01",
+      "family": "Seraphina住所",
+      "name": "起居整理区／露营器材来电",
+      "episodes": "Ch10；Ch7来电复用",
+      "time": "Ch10夜间，承接Mia旧公寓来电",
+      "weather": "天气未写；室内",
+      "evidenceType": "ACT电话→画面化",
+      "source": "P0400–0403、P0273–0277",
+      "notes": "Stay home支持住所；受伤与整理露营设备可在清楚桌面表现。具体户型为设定，其他电话可复用。",
+      "assetKind": "base",
+      "productionStatus": "提示词已完成",
+      "scopeStatus": "active"
+    },
+    {
+      "id": "N01",
+      "family": "露营／烟花约会地",
+      "name": "营地活动区／烟花观看位置",
+      "episodes": "Ch11、20回放",
+      "time": "最后陪睡夜凌晨1点电话；夜间明写",
+      "weather": "天气未写；烟花明写",
+      "evidenceType": "ACT电话＋地点设定",
+      "source": "P0401、P0425–0437、P0701",
+      "notes": "把烟花约会落露营地是连接前文器材的制作设定，原文未明确露营成行；预留观景空地和通向寝帐路径。",
+      "assetKind": "base",
+      "productionStatus": "提示词已完成",
+      "scopeStatus": "active"
+    },
+    {
+      "id": "N02",
+      "family": "露营／烟花约会地",
+      "name": "营地寝帐／Seraphina尝试助眠",
+      "episodes": "Ch12",
+      "time": "Mia离开当天夜间",
+      "weather": "天气未写；室内",
+      "evidenceType": "ACT＋地点设定",
+      "source": "P0452–0470",
+      "notes": "尝试哄睡和男主查看未读消息；地点未写，本版承接露营采用寝帐，是制作设定。保持成人生活与现代设备。",
+      "assetKind": "base",
+      "productionStatus": "提示词已完成",
+      "scopeStatus": "active"
+    },
+    {
+      "id": "O01",
+      "family": "故乡机场",
+      "name": "候机登机区／离开与往返",
+      "episodes": "Ch12、16前与19转场",
+      "time": "合同结束次晨出发；探病往返具体出发时段未写",
+      "weather": "天气未写；室内",
+      "evidenceType": "ACT＋旅行动线补充",
+      "source": "P0441–0451、P0560–0573、P0652–0654",
+      "notes": "出发与返纽约所需登机动线，机场具体名称未写；不锁真实航站楼或第三方航空公司。",
+      "assetKind": "base",
+      "productionStatus": "提示词已完成",
+      "scopeStatus": "active"
+    },
+    {
+      "id": "P01",
+      "family": "民航飞机",
+      "name": "靠窗座位／换SIM卡与望云",
+      "episodes": "Ch12、19",
+      "time": "首次赴纽约为次晨启程；返程蓝橙天色，当地钟点未写",
+      "weather": "返程穿云明写；其他天气未写",
+      "evidenceType": "ACT",
+      "source": "P0441–0451、P0652–0654",
+      "notes": "手机换卡、靠窗凝望与返程自我告别；两次航班机型共用为设定。窗内布局固定，蓝橙天色按状态处理。",
+      "assetKind": "base",
+      "productionStatus": "提示词已完成",
+      "scopeStatus": "active"
+    },
+    {
+      "id": "Q01",
+      "family": "纽约机场",
+      "name": "到达通道／行李与城市入口",
+      "episodes": "Ch14、19后制作转场",
+      "time": "首次抵达、探病后返纽约；当地到达时段未写",
+      "weather": "天气未写；室内",
+      "evidenceType": "ACT结果→动线补充",
+      "source": "P0441、P0503–0504、P0652–0654、P0817",
+      "notes": "抵达新城市和回家过渡；机场到达环境为补充，不指定JFK或真实标志。",
+      "assetKind": "base",
+      "productionStatus": "提示词已完成",
+      "scopeStatus": "active"
+    },
+    {
+      "id": "R01",
+      "family": "纽约相邻公寓楼／两套住宅",
+      "name": "Mia新居／浅色小床与花",
+      "episodes": "Ch14、25",
+      "time": "安顿后及故事结尾；具体昼夜未写",
+      "weather": "天气未写；室内",
+      "evidenceType": "ACT",
+      "source": "P0504–0508、P0817–0822",
+      "notes": "她自己的新床品、玩偶、花与安全感；新租地址不同于B组，清楚区分床头和窗。",
+      "assetKind": "base",
+      "productionStatus": "提示词已完成",
+      "scopeStatus": "active",
+      "promptFile": "RSTUVWX场景提示词_v01.md"
+    },
+    {
+      "id": "R02",
+      "family": "纽约相邻公寓楼／两套住宅",
+      "name": "Mia新居／日记与研究桌",
+      "episodes": "Ch14、25",
+      "time": "某周末翻日记明写；研究具体时段未写",
+      "weather": "天气未写；室内",
+      "evidenceType": "ACT/MENTION",
+      "source": "P0509–0519、P0819",
+      "notes": "查看撕页、密码改0000、收存日记与研究生活；同小公寓紧凑桌区，不扩大成豪宅书房。",
+      "assetKind": "base",
+      "productionStatus": "提示词已完成",
+      "scopeStatus": "active",
+      "promptFile": "RSTUVWX场景提示词_v01.md"
+    },
+    {
+      "id": "R03",
+      "family": "纽约相邻公寓楼／两套住宅",
+      "name": "Mia阳台／可见隔壁花台",
+      "episodes": "Ch15；Ch14观察复用",
+      "time": "聚餐留宿次晨；之后7日至第10日",
+      "weather": "天气未写",
+      "evidenceType": "ACT/STATE",
+      "source": "P0526–0532、P0547–0555",
+      "notes": "她站在自家阳台看邻居花；明确两户边界、视线、相邻阳台位置，不能将花台移到她家。",
+      "assetKind": "base",
+      "productionStatus": "提示词已完成",
+      "scopeStatus": "active",
+      "promptFile": "RSTUVWX场景提示词_v01.md"
+    },
+    {
+      "id": "R04",
+      "family": "纽约相邻公寓楼／两套住宅",
+      "name": "Draven隔壁卧室／床靠共享墙",
+      "episodes": "Ch22",
+      "time": "纽约买下邻居房后；入睡昼夜未写",
+      "weather": "天气未写；室内",
+      "evidenceType": "ACT/MENTION",
+      "source": "P0745–0750",
+      "notes": "浅床品、软毯与玩偶模仿Mia，床贴靠她卧室的共享墙；这是另一套独立住宅，不是Mia卧室状态。",
+      "assetKind": "base",
+      "productionStatus": "提示词已完成",
+      "scopeStatus": "active",
+      "promptFile": "RSTUVWX场景提示词_v01.md"
+    },
+    {
+      "id": "R05",
+      "family": "纽约相邻公寓楼／两套住宅",
+      "name": "Draven隔壁阳台／每日鲜花",
+      "episodes": "Ch14–15、22",
+      "time": "每晨换花；女主留宿后7日至第10日",
+      "weather": "天气未写；屋内通常黑暗不等于夜景",
+      "evidenceType": "ACT/STATE",
+      "source": "P0526–0532、P0548–0551、P0745",
+      "notes": "换花、未换、凋萎为同花台状态，登记而不重复算新空间；阳台与R03对应，室内暗与日景可同时存在。",
+      "assetKind": "base",
+      "productionStatus": "提示词已完成",
+      "scopeStatus": "active",
+      "promptFile": "RSTUVWX场景提示词_v01.md"
+    },
+    {
+      "id": "R06",
+      "family": "纽约相邻公寓楼／两套住宅",
+      "name": "两户公共过道／并列入口",
+      "episodes": "Ch14–15、22",
+      "time": "邻居出入与旅行时期；具体时段未写",
+      "weather": "天气未写；室内",
+      "evidenceType": "MENTION＋动线补充",
+      "source": "P0526–0528、P0547、P0745",
+      "notes": "同楼公共过道为设定，门颜色／位置区分两户。两套室内独立，但作为同建筑家族共享墙与阳台设计。",
+      "assetKind": "base",
+      "productionStatus": "提示词已完成",
+      "scopeStatus": "active",
+      "promptFile": "RSTUVWX场景提示词_v01.md"
+    },
+    {
+      "id": "S01",
+      "family": "纽约医学教学科研机构",
+      "name": "研究工作区／资料电脑工位",
+      "episodes": "Ch14、16、25",
+      "time": "纽约生活逐渐忙碌及结尾；具体时段未写",
+      "weather": "天气未写；室内",
+      "evidenceType": "ACT/MENTION→画面化",
+      "source": "P0520–0523、P0564、P0819",
+      "notes": "当前医学学习与研究有依据；机构地址／研究方式未写，设资料分析工位，不加动物实验或大型魔法医疗装置。",
+      "assetKind": "base",
+      "productionStatus": "提示词已完成",
+      "scopeStatus": "active",
+      "promptFile": "RSTUVWX场景提示词_v01.md"
+    },
+    {
+      "id": "S02",
+      "family": "纽约医学教学科研机构",
+      "name": "课题会议室／讨论桌",
+      "episodes": "Ch15",
+      "time": "第10日收到陌生短信时；具体昼夜未写",
+      "weather": "天气未写；室内",
+      "evidenceType": "ACT＋归属设定",
+      "source": "P0552–0554",
+      "notes": "正在开会所以忽略消息；会议放学术机构为设定。少量位置明确的座椅，桌面和操作区清楚。",
+      "assetKind": "base",
+      "productionStatus": "提示词已完成",
+      "scopeStatus": "active",
+      "promptFile": "RSTUVWX场景提示词_v01.md"
+    },
+    {
+      "id": "T01",
+      "family": "纽约日常街区",
+      "name": "步行路口／拿花与隔街旁观",
+      "episodes": "Ch14、22",
+      "time": "男主首次到纽约；阳光明亮，具体昼夜时刻未写",
+      "weather": "明亮阳光明写；具体晴阴未写",
+      "evidenceType": "ACT/VIS",
+      "source": "P0503、P0730–0744",
+      "notes": "Mia与女友拿花笑谈、男主隔街不靠近；一图展示两侧人行道与遮挡位，普通反打不另算。",
+      "assetKind": "base",
+      "productionStatus": "提示词已完成",
+      "scopeStatus": "active",
+      "promptFile": "RSTUVWX场景提示词_v01.md"
+    },
+    {
+      "id": "U01",
+      "family": "纽约花店",
+      "name": "鲜花选购／交接台",
+      "episodes": "Ch14、22制作插入",
+      "time": "买花、每日换花期间；具体时段未写",
+      "weather": "天气未写；室内",
+      "evidenceType": "MENTION→用户范围内画面化",
+      "source": "P0505–0507、P0529–0530、P0732",
+      "notes": "线下花店是制作落点，可服务女主新生活与邻居换花；花色及摆位后来需固定。",
+      "assetKind": "base",
+      "productionStatus": "提示词已完成",
+      "scopeStatus": "active",
+      "promptFile": "RSTUVWX场景提示词_v01.md"
+    },
+    {
+      "id": "V01",
+      "family": "纽约家居用品店",
+      "name": "床品与玩偶／选购展示区",
+      "episodes": "Ch14、22制作插入",
+      "time": "新居安顿与邻居布置期间；具体时段未写",
+      "weather": "天气未写；室内",
+      "evidenceType": "MENTION→用户范围内画面化",
+      "source": "P0505–0508、P0747–0749",
+      "notes": "新床品、玩具购买／布置有依据；线下店方式是设定。清楚的浅色织物和小陈列，避免密集货架。",
+      "assetKind": "base",
+      "productionStatus": "提示词已完成",
+      "scopeStatus": "active",
+      "promptFile": "RSTUVWX场景提示词_v01.md"
+    },
+    {
+      "id": "W01",
+      "family": "猫主题咖啡店",
+      "name": "室内座位／宠物互动区",
+      "episodes": "Ch15",
+      "time": "下午离店前，下午为连续性推导",
+      "weather": "天气未写；室内",
+      "evidenceType": "ACT/VIS",
+      "source": "P0535–0536",
+      "notes": "Mia与国际学生交友的社交空间；宠物具体形态未定，保留低矮互动设施功能，不提前出宠物形象。",
+      "assetKind": "base",
+      "productionStatus": "提示词已完成",
+      "scopeStatus": "active",
+      "promptFile": "RSTUVWX场景提示词_v01.md"
+    },
+    {
+      "id": "W02",
+      "family": "猫主题咖啡店",
+      "name": "店外门口／邀请与街角",
+      "episodes": "Ch15",
+      "time": "下午明写",
+      "weather": "天气未写；具体晴阴为制作设定",
+      "evidenceType": "ACT",
+      "source": "P0536–0541",
+      "notes": "离店后男同学邀请去看后空翻，门口对话实际发生；与W01同店门面连续。",
+      "assetKind": "base",
+      "productionStatus": "提示词已完成",
+      "scopeStatus": "active",
+      "promptFile": "RSTUVWX场景提示词_v01.md"
+    },
+    {
+      "id": "X01",
+      "family": "男同学纽约公寓",
+      "name": "客厅玩耍空地／宠物展示",
+      "episodes": "Ch15",
+      "time": "下午到访后；昼夜按聚餐顺接",
+      "weather": "天气未写；室内",
+      "evidenceType": "ACT",
+      "source": "P0535、P0542",
+      "notes": "后空翻需要空地、低平台与观看位；原文宠物为猫，用户只确认拟人＋魔幻方向，具体改编形态留待定。",
+      "assetKind": "base",
+      "productionStatus": "提示词已完成",
+      "scopeStatus": "active",
+      "promptFile": "RSTUVWX场景提示词_v01.md"
+    },
+    {
+      "id": "X02",
+      "family": "男同学纽约公寓",
+      "name": "餐叙区／多人火锅桌",
+      "episodes": "Ch15",
+      "time": "同日下午之后聚餐，具体开饭时段未写",
+      "weather": "天气未写；室内",
+      "evidenceType": "ACT",
+      "source": "P0543–0544",
+      "notes": "多人火锅、两人喝多留宿；可设计6个可辨座位作为制作建议，原文只写几位朋友不定人数。少量餐具，火锅与人物站坐位为重点。",
+      "assetKind": "base",
+      "productionStatus": "提示词已完成",
+      "scopeStatus": "active",
+      "promptFile": "RSTUVWX场景提示词_v01.md"
+    },
+    {
+      "id": "X03",
+      "family": "男同学纽约公寓",
+      "name": "客用留宿角／沙发与客床",
+      "episodes": "Ch15",
+      "time": "聚餐后当夜，次晨女主回家",
+      "weather": "天气未写；室内",
+      "evidenceType": "ACT＋家具设定",
+      "source": "P0544–0547",
+      "notes": "多人留宿，另一女生请Mia也留下；客床／沙发位置是设定，不暗示Mia与男同学同床。",
+      "assetKind": "base",
+      "productionStatus": "提示词已完成",
+      "scopeStatus": "active",
+      "promptFile": "RSTUVWX场景提示词_v01.md"
+    },
+    {
+      "id": "Y01",
+      "family": "过渡空镜／时间流逝",
+      "name": "庄园树梢与窗光／成长晨昏",
+      "episodes": "Ch3、8回忆",
+      "time": "13岁入选后多年成长；不锁季节",
+      "weather": "具体天气未写；晨昏变化为制作设计",
+      "evidenceType": "用户延续过渡空镜要求",
+      "source": "P0115–0120、P0319–0323",
+      "notes": "树梢和庄园窗光用于多年成长过渡；Y是过渡用途索引，不是统一物理地址。",
+      "assetKind": "transition",
+      "productionStatus": "用户取消制作",
+      "scopeStatus": "historical_cancelled",
+      "scopeSource": "2026-10-01用户：空境的话就不设计这一本的了"
+    },
+    {
+      "id": "Y02",
+      "family": "过渡空镜／时间流逝",
+      "name": "旧公寓外／三日窗灯变化",
+      "episodes": "Ch4→5、20回放",
+      "time": "23岁发现日记后三日间隔→第4夜（用户确认）",
+      "weather": "天气未写；光影变化为制作设计",
+      "evidenceType": "用户延续过渡空镜要求",
+      "source": "P0182–0186、P0677–0678",
+      "notes": "静态街景与窗灯便于视频交代三日过去；复用B组外立面线索，不再插四年醉酒转场。",
+      "assetKind": "transition",
+      "productionStatus": "用户取消制作",
+      "scopeStatus": "historical_cancelled",
+      "scopeSource": "2026-10-01用户：空境的话就不设计这一本的了"
+    },
+    {
+      "id": "Y03",
+      "family": "过渡空镜／时间流逝",
+      "name": "旧公寓窗外／近午天光",
+      "episodes": "Ch6→7",
+      "time": "醉酒夜过后，接近中午明写",
+      "weather": "天气未写；柔日光为制作建议",
+      "evidenceType": "用户延续过渡空镜要求",
+      "source": "P0258–0269",
+      "notes": "从深睡到电话响之前，窗外天光交代时间。父母家族魔幻气质不改变现代城市日照逻辑。",
+      "assetKind": "transition",
+      "productionStatus": "用户取消制作",
+      "scopeStatus": "historical_cancelled",
+      "scopeSource": "2026-10-01用户：空境的话就不设计这一本的了"
+    },
+    {
+      "id": "Y04",
+      "family": "过渡空镜／时间流逝",
+      "name": "故乡屋顶／末周光影流动",
+      "episodes": "Ch9→11",
+      "time": "合同剩7天，直到第6夜／最后一夜",
+      "weather": "天气未写；日夜变化为制作设计",
+      "evidenceType": "用户延续过渡空镜要求",
+      "source": "P0359、P0376–0377、P0409–0410",
+      "notes": "准备文件与衣物的数日压缩，不能把Ch10翌日晚间改成跨年；不锁具体日历。",
+      "assetKind": "transition",
+      "productionStatus": "用户取消制作",
+      "scopeStatus": "historical_cancelled",
+      "scopeSource": "2026-10-01用户：空境的话就不设计这一本的了"
+    },
+    {
+      "id": "Y05",
+      "family": "过渡空镜／时间流逝",
+      "name": "机场跑道／晨间起飞天光",
+      "episodes": "Ch11→12",
+      "time": "凌晨1点电话后，次晨出发明写",
+      "weather": "天气未写；晨光和云量为制作建议",
+      "evidenceType": "用户延续过渡空镜要求",
+      "source": "P0425、P0441",
+      "notes": "空跑道与低位晨光交代次日启程；飞机按无品牌设计，使用O组机场线索。",
+      "assetKind": "transition",
+      "productionStatus": "用户取消制作",
+      "scopeStatus": "historical_cancelled",
+      "scopeSource": "2026-10-01用户：空境的话就不设计这一本的了"
+    },
+    {
+      "id": "Y06",
+      "family": "过渡空镜／时间流逝",
+      "name": "纽约邻楼外／日夜与窗光",
+      "episodes": "Ch14–15",
+      "time": "约一年新生活；另可用于留宿后7至10日等待",
+      "weather": "天气与季节未写；天光轮换为制作设计",
+      "evidenceType": "用户延续过渡空镜要求",
+      "source": "P0520–0532、P0547–0557",
+      "notes": "窗光／云影用于生活流逝；鲜花盛开、未换、凋萎本体仍由R05同底图状态承载，不用街景替代花的证据。",
+      "assetKind": "transition",
+      "productionStatus": "用户取消制作",
+      "scopeStatus": "historical_cancelled",
+      "scopeSource": "2026-10-01用户：空境的话就不设计这一本的了"
+    },
+    {
+      "id": "Y07",
+      "family": "过渡空镜／时间流逝",
+      "name": "医院顶层窗外／日光转傍晚",
+      "episodes": "Ch17",
+      "time": "陪伴两小时，并留到傍晚醒来明写",
+      "weather": "天气未写；具体夕照为制作建议",
+      "evidenceType": "用户延续过渡空镜要求",
+      "source": "P0600–0605",
+      "notes": "顶层窗景交代等待时间；与D01窗方向匹配，不额外设住院数日。",
+      "assetKind": "transition",
+      "productionStatus": "用户取消制作",
+      "scopeStatus": "historical_cancelled",
+      "scopeSource": "2026-10-01用户：空境的话就不设计这一本的了"
+    },
+    {
+      "id": "Y08",
+      "family": "过渡空镜／时间流逝",
+      "name": "返程空域／深蓝橙色云层",
+      "episodes": "Ch18→19",
+      "time": "返纽约飞行；具体当地钟点未写",
+      "weather": "蓝橙天空与穿云明写；夕照是推导",
+      "evidenceType": "用户延续过渡空镜要求",
+      "source": "P0652–0654",
+      "notes": "航班外部云层的独立过渡用途；客舱人物／换卡仍用P01，同机位变化后使用底图状态编辑。",
+      "assetKind": "transition",
+      "productionStatus": "用户取消制作",
+      "scopeStatus": "historical_cancelled",
+      "scopeSource": "2026-10-01用户：空境的话就不设计这一本的了"
+    }
+  ],
+  "styleRows": [
+    [
+      "已确认方向",
+      "原动物城卡通CG＋西方魔幻气质",
+      "用户2026-10-01确认可借鉴艾尔登法环的魔幻感觉。此为方向确认；具体风格词与效果仍待测试。"
+    ],
+    [
+      "世界底座",
+      "现代拟人动物都市，容纳稀有西方龙",
+      "汽车、手机、支票、密码锁、民航、大学交换与现代医院均有剧情依据；故乡城市未命名，纽约明确。"
+    ],
+    [
+      "魔幻建筑语言",
+      "厚重石材体块、奇异高挑剪影、翼弧门窗和世俗家族旧物",
+      "原创建筑设计提炼庄严、古老与神秘感；保留卡通CG的雕塑感与清楚色块。避开可识别游戏地标、宗教符号及具体标志。"
+    ],
+    [
+      "龙族庄园",
+      "森绿、墨蓝与旧金，石材＋深木，克制豪门秩序",
+      "重点是契约桌、卧室门、共学桌、花艺台和办公位置。高门净空、宽通道、尾部余量服务龙的实际使用，不堆满龙雕像。"
+    ],
+    [
+      "酒店与Seraphina空间",
+      "贵气魔幻现代装饰，冷白、银蓝与深酒红局部点色",
+      "豪华套房仍有现代床头、会客桌和门外走廊；Seraphina住所与寝帐保持独立地址和风格线索。"
+    ],
+    [
+      "Mia故乡与纽约新居",
+      "浅色小床、柔软织物、少量玩偶和花，紧凑可居住",
+      "故乡更多冷窗光与孤立空间；纽约增加清楚晨光与研究桌。两处保持不同床头、窗框／门色，安全感为核心。"
+    ],
+    [
+      "纽约邻居公寓",
+      "同楼相邻，两套独立卧室／阳台",
+      "Draven模仿浅床品、玩偶，床贴共享墙；他的阳台鲜花是明显参照物。屋内暗与窗外日景可以同时成立。"
+    ],
+    [
+      "现代医疗与研究空间",
+      "温和动物尺度与魔幻造型外壳，内部功能现代清楚",
+      "医院保留病床、椅子、纸篓与接诊结构；研究以电脑资料工位为主。未写诅咒、魔法药水或传送，不添加治疗机制。"
+    ],
+    [
+      "动画化造型",
+      "大形雕塑感、柔化边缘、适度夸张尺度、简化材质纹理",
+      "卡通CG身份在缩略图可读；成年情感空间保持成熟秩序，家具与建筑不一律圆胖玩具化。"
+    ],
+    [
+      "色彩建议",
+      "协调饱和色块，阴影保留有色层次",
+      "龙族：#233E37森绿、#243247墨蓝、#B99760旧金；Mia：#F2E6D6乳白、#D9B8C5柔粉、#A3C8BF浅青。均为待测试建议，非剧本固定色。"
+    ],
+    [
+      "光影体系",
+      "窗光、月光与实景灯来源清楚，神秘冷暖交织",
+      "夜间可蓝紫阴影＋局部暖灯，暗部仍看清门、床、动作台。暴风雪由冷散射光与云层层次表现，不把全部场景压黑。"
+    ],
+    [
+      "AI视频可读性",
+      "每张一个功能焦点，2–3个稳定空间锚点",
+      "关键床、合同桌、日记抽屉、花台与病床足够大；重复座位分开并有颜色／位置区别，装饰与遮挡做减法。"
+    ],
+    [
+      "魔幻强度分配",
+      "庄园、酒店、飞行较强；新居、医学与社交更日常",
+      "通过原创剪影、材质体块、空间尺度和色光融合魔幻；现代功能与主角生活连续。"
+    ],
+    [
+      "后续测试顺序",
+      "先测C01契约会客室、B01小床、R03相邻阳台／纽约生活",
+      "一张检验豪门魔幻，一张检验卡通温柔，一张检验现代动物城市及动作参照物；用户本轮暂不写提示词，测试留下一步。"
+    ],
+    [
+      "尚未锁定",
+      "具体风格词、细部配色；宠物形态与猫毛色冲突",
+      "第三答复只复申拟人＋魔幻风格，未具体决定宠物形态；人物资料白猫与正文tuxedo cat留给后续角色核验，不阻塞空场景表。"
+    ]
+  ],
+  "confirmed": [
+    {
+      "decision": "19岁写日记，23岁被发现撕毁，再接三天后第4夜醉酒登门。",
+      "source": "本轮用户问答"
+    },
+    {
+      "decision": "飞行与驾车赴约都保留，作为途中不同阶段。",
+      "source": "本轮用户问答"
+    },
+    {
+      "decision": "保留原动物城卡通CG，加入西方魔幻气质；用户以艾尔登法环魔幻感作研究参考，具体风格词需随后测试。",
+      "source": "本轮用户风格提醒"
+    },
+    {
+      "decision": "本剧优先；兔子剧提示词记为后续待办。",
+      "source": "本轮用户任务安排"
+    },
+    {
+      "decision": "中世纪魔幻＋蒸汽机械＋动物卡通CG雕塑造型已确认；C权贵装修按最新贵气升级模块，纽约普通生活场所保持其功能等级。",
+      "source": "用户确认v02及2026-10-01装修反馈"
+    },
+    {
+      "decision": "R–X最后16项全部写提示词；本剧Y过渡空镜取消制作。",
+      "source": "2026-10-01最新用户范围"
+    }
+  ],
+  "pending": [
+    "Mia小传白猫与正文tuxedo cat冲突；本轮不锁角色外观。",
+    "猫咖啡／宠物猫具体改编形态未定，本轮只留功能区。",
+    "学业层级／故乡城市未写；不补已完成学历。",
+    "医院故乡归属、19岁卧室复用旧公寓、办公书房归庄园、分手归酒店和助眠归营地寝帐均为制作设定或连续性推导。"
+  ],
+  "stateNeeds": [
+    {
+      "id": "B01",
+      "states": "温柔小床原状→打包末夜→床品玩偶清空、裸床垫→Draven当夜服药；结构固定。"
+    },
+    {
+      "id": "B05/B06",
+      "states": "衣柜缺睡衣、文件准备、行李增减与空公寓；与B01清空进度一致。"
+    },
+    {
+      "id": "B02/R02",
+      "states": "写下日记、旧页撕毁／遗留纸边、纽约密码改0000及收存；跨地址不可误用同底图。"
+    },
+    {
+      "id": "R05",
+      "states": "每晨鲜花→女主留宿后未换花→7日凋萎；花台位置和相邻关系固定。"
+    },
+    {
+      "id": "D01",
+      "states": "陪伴到傍晚、愿望券完整→撕碎投入纸篓；保留同病床、椅子和门。"
+    },
+    {
+      "id": "P01/Y08",
+      "states": "首次启程与返程蓝橙天色；同机位改变窗景时依基础图编辑。"
+    }
+  ],
+  "counts": {
+    "locationGroups": 24,
+    "baseScenes": 58,
+    "transitionScenes": 8,
+    "totalImages": 66
+  },
+  "originalProposalCounts": {
+    "locationGroups": 24,
+    "baseScenes": 58,
+    "transitionScenes": 8,
+    "totalImages": 66
+  },
+  "currentActiveCounts": {
+    "locationGroups": 24,
+    "baseScenes": 58,
+    "transitionScenes": 0,
+    "totalAssets": 58,
+    "completedBasePrompts": 58,
+    "cancelledTransitionScenes": 8
+  },
+  "scopeUpdated": "2026-10-01：R–X16项完成，Y8过渡取消；rows和counts保留原66项建议来源，当前执行范围使用currentActiveCounts",
+  "currentStyle": "已确认中世纪魔幻建筑＋连贯蒸汽机械＋拟人动物卡通CG雕塑化造型；C最新贵气装修升级，纽约日常场所保留现代功能与合理生活等级",
+  "currentPromptIndexes": [
+    "AB场景提示词_v01_含C01贵气修订.md",
+    "C场景提示词_v01_克制红金.md",
+    "C系列批量贵气升级_通用修改提示词_v02.md",
+    "DEFGHI场景提示词_v01.md",
+    "JKLMNOPQ场景提示词_v01.md",
+    "RSTUVWX场景提示词_v01.md"
+  ]
+}

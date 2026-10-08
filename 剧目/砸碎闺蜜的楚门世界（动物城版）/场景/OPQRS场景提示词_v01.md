@@ -1,0 +1,62 @@
+# 《砸碎闺蜜的楚门世界（动物城版）》O–S场景提示词 v01
+
+画幅：16:9。原生文生图提示词，无需上传参考图。风格：已确认AN-02当代都市动物卡通CG；本批依据最新反馈加强每处独有的建筑轮廓、色块及功能家具设计，保留中等细节和可指认动作区。
+
+## O01｜雨中接人路段｜雨中路边／扶接醉酒Zack
+
+```text
+A fixed 16:9 landscape frame showing an empty rain-soaked neighborhood street in an original contemporary anthropomorphic-animal city, rendered as sculptural cartoon feature-animation CGI. A broad curved rain canopy folds upward at its ends over a recessed doorway, its muted teal #477C83 underside forming a clear shelter against coral plaster #C98F79 facades. From the opposite curb at adult chest height, a restrained 30 mm view looks diagonally toward a level pavement beneath this canopy at middle-left. Keep this sheltered patch and the adjoining wet sidewalk broad enough for one figure to support another and turn toward the residential lane continuing into the rear-left background.
+
+Thick overlapping window frames and rounded building corners create an expressive street silhouette. A blue #698FAB low bench stands against the doorway's outer left wall, leaving the sheltered center open; its bowed base and backrest tail gap supply a useful local detail. A sage #8DAE93 planter occupies the far-right facade edge, its broad leaves separated from the passage. Warm-oak #A77853 doorway panels carry a low paw-grip pull with one discreet leaf-shaped recess. The cream #E8DDC8 stone threshold stays distinct from the charcoal #394D5D roadway. Shallow curb channels collect rain, with a few wet leaves beside the drain. Layered bay windows, a corner grocery's closed shutters and a distant curved balcony enrich the background without cluttering the receiving area.
+
+Heavy rain falls through cool early-evening skylight. Warm light from the recessed doorway lands across the sheltered pavement, while a streetlamp at rear-right draws a narrow reflected ribbon toward the foreground. Canopy runoff breaks the nearby puddle reflections; cooler bounce keeps the bench, curb and homeward lane readable. Broad painted materials, sculpted rain shapes and coherent contact shadows retain an unmistakably animated finish. Empty environment with no people, anthropomorphic animals, silhouettes or figure reflections. No religious imagery, real national flags, coats of arms or recognizable official national emblems. Fixtures and signage are unbranded, without identifiable third-party logos, trademarks or brand names.
+```
+
+## P01｜Casey电话另一端｜摄影工作角／电话与摔物区
+
+```text
+A fixed 16:9 landscape frame showing an empty private photography work corner in an original contemporary anthropomorphic-animal city, rendered as sculptural cartoon feature-animation CGI. A dusky-plum #796578 recessed wall wraps around a crescent-shaped walnut #865D4A worktable, while broad ivory #E9DECB shelf bands step upward along its left side. From the doorway at adult waist height, a restrained 32 mm view looks toward the table at middle-left and an unobstructed wall-and-floor patch at middle-right. The curved table's open front and a blue #7295AE swivel chair define the calling position, with a broad standing gap connecting it to the bare wall.
+
+A generic charcoal #313B45 phone lies face-up beside the near table edge, its screen unreadable. An intact drinking glass stands separately near the far-right table corner. The adjacent plain wall and honey-oak #B78B60 floor remain clear for an object thrown against the wall; no shattered glass is present yet. A camera and one short lens occupy a coral #C88B79 padded tray at back-left. Closed albums, folded backdrop fabric and camera pouches form separate groups on the stepped shelves, with no readable cover images or award display. A folded lighting stand and a rolled shooting sweep sit vertically at rear-left, establishing photography through practical equipment. Softly tapered shelf supports, thick window trim and a small leaf-shaped drawer grip give the furnishings authored character. The chair has a lower tail opening; the room remains adult and usable.
+
+Late-afternoon daylight enters through a high window on the right, grazing the bare wall and leaving broad cool fill across the worktable. A shaded table lamp adds a warmer pool around the phone and glass. Colored contact shadows separate the equipment tray, chair and table legs; restrained glass highlights preserve the future throw path. Painted wood, matte textile and simplified equipment shapes keep the scene visibly animated. Empty environment with no people, anthropomorphic animals, silhouettes, portraits or figure reflections. No religious imagery, real national flags, coats of arms or recognizable official national emblems. Equipment, furnishings and packaging are unbranded, without identifiable third-party logos, trademarks or brand names.
+```
+
+## Q01｜高档服装店｜服装选购／付款柜台
+
+```text
+A fixed 16:9 landscape frame showing an empty upscale clothing boutique in an original contemporary anthropomorphic-animal city, rendered as sculptural cartoon feature-animation CGI. Three broad overlapping ceiling ribbons curve downward like restrained fabric folds, their ivory #F0E4D0 surfaces edged in satin brass #B79A60. Beneath them, a dusty-berry #A96D7B bowed sales counter occupies middle-right, opposite a sea-teal #487A82 recessed clothing bay at middle-left. From the entrance at adult chest height, a moderate 28 mm view includes both the selection area and the distinct payment point, connected by a clear central aisle.
+
+The clothing bay contains separated unbranded coats, blouses and skirts on a brass rail, arranged in small color groups rather than a dense rack. A warm-walnut #8F624E low drawer cabinet beneath it holds neatly folded textiles; one reachable drawer has a subtle leaf-shaped grip. A broad cream terrazzo #DED5C4 floor band curves from the clothing bay toward the sales counter. The counter's nearer left end supplies an open handover surface for a garment and card, while a small generic payment terminal sits at its far-right end. A muted-blue #7894B0 upholstered fitting bench stands near-left with tail clearance and a curved base. At rear-left, a full curtain encloses the fitting recess; an oval mirror beside it reflects only the empty clothing bay. Layered garment folds, a grouped ceramic vase and carefully lit drawer edges make the boutique polished without crowding its working areas. No mannequins or human-shaped displays are present.
+
+Afternoon daylight enters from the entrance glazing at camera-left, laying a soft directional patch across the aisle. Warm-neutral concealed light follows the ceiling folds, and small recessed spots illuminate the clothing and counter separately. Cooler window bounce preserves the berry and teal color identities; brass highlights remain narrow. Sculpted textiles, softened terrazzo grain and broad color planes create mature cartoon elegance. Empty environment with no people, anthropomorphic animals, silhouettes or figure reflections. No religious imagery, real national flags, coats of arms or recognizable official national emblems. Clothing, payment equipment, bags and signage are unbranded, without identifiable third-party logos, trademarks or brand names.
+```
+
+## R01｜城市巡展场地｜巡展作品墙／新事业展示
+
+```text
+A fixed 16:9 landscape frame showing an empty photography touring exhibition in an original contemporary anthropomorphic-animal city, rendered as sculptural cartoon feature-animation CGI. Two thick cobalt-blue #496995 display walls rise in broad offset curves like open pages, creating a central presentation bay beneath a tall ivory #E9E2D4 clerestory. From the entrance at adult eye height, a restrained 30 mm view looks toward the main framed artwork at middle-right; a peach #CF967B curved wall beyond it reveals the next exhibition bay. Leave a broad viewing patch before the main frame and an uninterrupted route around the left end of the blue wall.
+
+The prominent frame has a warm-oak #B88B60 border and a pale blank insert reserved for the authorized story artwork. Two smaller, separated frames occupy the adjacent curved surface, also with blank inserts and no invented photographs, names or titles. Their differing sizes and wall depths give the display hierarchy even before artwork is added. A sage #88A891 bowed bench stands at near-left with a lower back gap for tails. A slim charcoal #394551 brochure stand marks the far-left turn; its low drawer uses a small leaf-shaped pull. Pale-grey #C6CED1 terrazzo paving contains a broad curved oak floor strip directing the route between bays. A shallow illuminated ledge, neatly grouped catalogs and a single leafy planter at the distant corner supply credible public-gallery detail. Peripheral wall recesses establish further exhibition capacity without becoming a competition auditorium.
+
+Afternoon light enters through the high left clerestory, creating one broad curved shadow on the blue wall and soft daylight on the viewing patch. Neutral track spots illuminate the main frame and secondary frames in separate pools; cool reflected light preserves the rear bay. Simplified stone grain, sculpted architectural edges and broad matte colors make the authored animated design unmistakable. Empty environment with no people, anthropomorphic animals, silhouettes, figure reflections or figures within artwork. No religious imagery, real national flags, coats of arms or recognizable official national emblems. Fixtures, publications and signage are unbranded, without identifiable third-party logos, trademarks or brand names.
+```
+
+## S01｜摄影器材店｜镜头购买／展示柜台
+
+```text
+A fixed 16:9 landscape frame showing an empty professional camera shop in an original contemporary anthropomorphic-animal city, rendered as sculptural cartoon feature-animation CGI. A deep-blue #355C79 horseshoe-shaped service counter curves toward the foreground, while broad stepped circular niches in a warm ivory #E9E0CC rear wall echo the shape of lens barrels. From the customer aisle at adult waist height, a restrained 32 mm view looks slightly downward toward the counter's near-left demonstration surface and the separate store-side workspace behind it. Keep the customer approach open at front-left and the staff access gap visible at rear-right.
+
+Exactly four unbranded charcoal #29353F lenses stand separately on a honey-oak #B78A5A demonstration tray: a short standard lens at front-left, a compact wide lens at front-right, a medium portrait lens at back-left and a longer telephoto lens at back-right. Their heights, barrel widths and gaps remain readable. A coral #C98B76 padded mat occupies the adjacent near-right counter surface for testing a camera; no loose equipment covers it. A muted-green #85A893 low stool behind the counter has a backless rounded seat with tail clearance. The glass-front display beneath the demonstration surface holds grouped camera bodies on spaced supports, while padded cases and closed plain boxes occupy the lower rear shelves. One mustard #C8A64F drawer identifies the accessible accessory section. Thick rounded counter rims, oversized tactile drawer pulls and a discreet leaf-shaped ventilation slot make the professional fixtures expressive and useful.
+
+Afternoon window light enters from the storefront at camera-left, sweeping across the demonstration tray and customer standing area. Warm-neutral niche lights shape the rear wall; cool sky fill keeps black lens barrels distinct. Broad restrained glazing reflections leave the equipment visible, with firm contact shadows beneath every lens. Simplified material grain and sculpted technical forms maintain clear cartoon CGI rather than photographic retail rendering. Empty environment with no people, anthropomorphic animals, silhouettes, portraits or figure reflections. No religious imagery, real national flags, coats of arms or recognizable official national emblems. Electronics, packaging, furniture and signage are unbranded, without identifiable third-party logos, trademarks or brand names.
+```
+
+## 内部依据与制作边界
+
+- O01：P0970–0973明写醉酒、大雨、淋雨接人回家；具体地址、店面类型、昼夜均未写。采用早傍晚普通住宅街为制作选点；不新增酒吧、酒瓶或驾车接人剧情。曲雨檐下水平接扶区与后左回家巷道为动作设计。
+- P01：P1136–1167明写新闻延续数日、Casey电话、玻璃撞墙碎裂声；电话另一端位置未知。摄影工作角、设备数量、窗位、晚下午是制作落位，不能宣称原文明确住宅或独立影棚。当前为未摔基础，玻璃完整且撞墙区净空；不预写状态编号，不加她获得的奖项、监控或未核验新闻画面。
+- Q01：P0433–0436为高档服饰购买旁白，线下店、下午、内部装修与服饰陈列均为用户授权画面化制作设定。没有品牌、人物模特或未确认角色服装定稿；选购湾和收款点由颜色与位置区分。
+- R01：P0952–0954为巡展邀约并答应，实际巡展尚未原文明写。本图是授权事业成长补充；下午及独立展场为制作方案，不是又一次比赛。空镜插页留给经核验的剧情作品层，未把Jojo作品替换成任意照片、风景或人物；作品层需另按剧情处理。
+- S01：P1230–1231明写奖金购买全套专业镜头，线下店及下午为制作落位。台面4只为可清晰指认的演示阵列，未断言角色全套只有4只；后柜仍可容纳设备库存。标准／广角／人像／长焦为专业展示方案，具体购物型号未核验，不指定品牌。
+- 本批仅完成5条提示词，未生成、观察或逐图认可图片；原标题、编号与资产范围保持。

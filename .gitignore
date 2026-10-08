@@ -1,0 +1,20 @@
+# Operating-system metadata and generated Python caches
+.DS_Store
+__pycache__/
+*.py[cod]
+
+# Machine-local dependency links and temporary validation runtime
+node_modules
+node_modules/
+.work/skill_validation/
+
+# Local credentials are never part of the project backup
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+
+# Optional local backup archives; Git tags hold the published baseline
+.local-backups/

@@ -1,0 +1,34 @@
+[
+  {
+    "source": ".agents/skills/drama-image-prompts/references/wardrobe/design-system.md",
+    "sha256": "c69cc2878fd9fec31ed4c17f0ffb00743e78ff79f310d7b4090c61668f6dc0cb"
+  },
+  {
+    "source": ".agents/skills/drama-image-prompts/references/wardrobe/style-library.md",
+    "sha256": "1e17fdfe66c65dc13f91c2c07f6e3400a4b874da378348f9e73dc4e4100a1623"
+  },
+  {
+    "source": ".agents/skills/drama-image-prompts/references/wardrobe/market-localization.md",
+    "sha256": "f7ed699fb57e2ecd4b56e6923a0caf4be32cc4d53e4db4a0bde4cf4977b1c8e9"
+  },
+  {
+    "source": ".agents/skills/drama-image-prompts/references/wardrobe/research-notes.md",
+    "sha256": "da5ef7b10188965511f6a70806442c14ff0a9ddc05c254ab59b68e290862de95"
+  },
+  {
+    "source": ".agents/skills/drama-image-prompts/references/character-standard.md",
+    "sha256": "7f11d50a5a16688469694c8ec7a955c3108a74bcc453bf6676b2140df7a2877f"
+  },
+  {
+    "source": "模板/新剧目/04_角色提示词模板.md",
+    "sha256": "9b790b6181e2b624c904d5368d11b46f0ad54da19ef2e7123a7889097dbf4d6e"
+  },
+  {
+    "source": "工作台/模块/角色与群演.md",
+    "sha256": "b7c7b53dc83b0d866264b24af18189b5e3c0af484fb7367a02e444748dadb58b"
+  },
+  {
+    "source": "项目记忆.md",
+    "sha256": "4467e8f0b79903d93d397e1e83a5d9c742dc20fe40e39ec8ac288504bafddee9"
+  }
+]
