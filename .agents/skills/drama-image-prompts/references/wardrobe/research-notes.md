@@ -9,7 +9,7 @@
 | [Costume Designers Guild：What Is Costume Design?](https://costumedesignersguild.com/what-is-costume-design/)，页面未署日期，本轮核验 | 衣服传递人物身份、经济与情绪，以及人物希望别人怎样看自己；当代服装也需要组合、调整与制作 | 简报加入自我呈现；职业和性格不能直接变成单品制服 |
 | [CDG：From Archive to Screen](https://costumedesignersguild.com/design_details/conversations-about-research/)，2021-02-17 | 生活研究建立真实基础，虚构创作可按故事作有意识的解释与偏离 | 可信生活基线保留，镜头表达可以增强；来源没有规定戏剧化数值 |
 | [FIT：Elements and Principles of Fashion Design](https://www.fitnyc.edu/museum/documents/elements-and-principles-of-fashion-design.pdf)，PDF 未署日期，本轮核验 | 形态、线条、色彩、肌理与比例、平衡、统一、节奏、强调等关系 | 采用比例、焦点、呼应与统一的设计提问；不能将“有三项细节”视为合格 |
-| [FIT：Fashion Design 2026—27 课程目录](https://catalog.fitnyc.edu/undergraduate/courses/ff/)，2026—27 学年 | FF 211 涉及研究、设计开发与编辑；FF 323 涉及材料、身体与轮廓关系、风格夸张、态度与生活方式 | 构思后比较和淘汰；内部通常三个方向为本项目实施办法，学校未规定数量 |
+| [FIT：Fashion Design 2026—27 课程目录](https://catalog.fitnyc.edu/undergraduate/courses/ff/)，2026—27 学年 | FF 211 涉及研究、设计开发与编辑；FF 323 涉及材料、身体与轮廓关系、风格夸张、态度与生活方式 | 构思后比较和淘汰；方向数量随任务，不把旧版内部三个方向当作固定流程，学校未规定数量 |
 | [UAL：Fashion Sketchbook](https://www.arts.ac.uk/subjects/fashion-design/short-courses/fashion-drawing/fashion-sketchbook-short-course-csm)，页面未署日期，本轮核验 | 收集并处理灵感，实验轮廓、纺织、印花与垂褶，发展设计 | 看图之后要转换为可见变量，不能止于收藏或抄风格词 |
 | [FIT：Costume Design and Wardrobe Technician](https://www.fitnyc.edu/academics/academic-divisions/ccps/noncredit/wardrobe-technician.php)，页面未署日期，本轮核验 | 剧本分析、研究板、设计表现、服装表与衣橱，比例、垂坠及纹理参与叙事 | 连接设计与跨场连续性，配饰在整体构思阶段进入 |
 | [V&A：Secrets of Balenciaga’s Construction](https://www.vam.ac.uk/articles/secrets-of-balenciagas-construction)，更新 2024-04-17 | 材料性质、版型、离体领口与垂褶能形成强形态 | 平静色彩与少装饰仍可有设计；历史款的品牌或宗教关联不进入资产 |
@@ -45,7 +45,7 @@
 
 陌生城市、年代、行业或资源条件需要核验时，按本轮任务选择当地工作／生活一手资料、天气交通、零售渠道和设计展示，避免只查“漂亮穿搭”。官方设计入口可从 [CFDA](https://cfda.com/)、[British Fashion Council](https://www.britishfashioncouncil.co.uk/)、[FHCM](https://www.fhcm.paris/)、[Camera Nazionale della Moda Italiana](https://www.cameramoda.it/en/)、[FIT 博物馆](https://www.fitnyc.edu/museum/)继续检索。入口存在不等于已经看过其中的视觉材料。
 
-每条实际采用的参考记录出处、发布日期／季节、核验日期、实际看过的内容、可见机制、适用人物和要改的部分。没有看图时只记文字结论；看过局部时不推断整场秀。生活穿法与展示造型注明不同用途，至少交叉比较不同类型资料；证据足够后停止搜索，进入设计开发。
+每条实际采用的参考记录出处、发布日期／季节、核验日期、实际看过的内容、可见机制、适用人物和要改的部分。没有看图时只记文字结论；看过局部时不推断整场秀。生活穿法与展示造型注明不同用途；有本地化证据缺口时交叉比较不同类型资料，已有充分证据不强制额外研究。证据足够后停止搜索，进入设计开发。
 
 国际都市服装可能跨国适用，本地化核验看天气、行业、行动与消费逻辑是否有实际冲突，不要求从衣服猜出国家。传统文化图案需有清楚来源和人物依据，宗教元素仍按项目硬限制排除。
 
